@@ -19,7 +19,7 @@
     ]
   },
   "adminBot": [
-    "100071880593545",
+    "61595172867995",
     ""
   ],
   "DEV": [
@@ -36,10 +36,10 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "Goat-Bot-V2",
-  "prefix": "/",
+  "prefix": "!",
   "autoSetNickname": true,
   "authorFB": "https://www.facebook.com/profile.php?id=100071880593545",
-  "authorName": "AminulSardar",
+  "authorName": "Rifat Hasan",
   "authorEmail": "secret",
   "database": {
     "type": "sqlite",
